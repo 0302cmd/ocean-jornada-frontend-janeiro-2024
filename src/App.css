@@ -1,15 +1,47 @@
-.card{
+#root {
+  width: 100%;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 32px;
+  padding: 16px;
+}
+
+.card {
   border: 1px solid white;
   border-radius: 10px;
-  padding:16px;
+  padding: 16px;
   box-shadow: 4px 4px white;
   text-align: center;
+  cursor: pointer;
 }
 
-.card > h2{
+.card > h2 {
   font-size: 32px;
+  border-left: 6px solid #A9D3E9;
 }
 
-.card > img{
+.card > img {
   border-radius: 10px;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+  max-width: 300px;
+  justify-content: center;
+}
+
+.tag {
+  background: white;
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 4px 12px;
 }
