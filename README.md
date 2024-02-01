@@ -1,4 +1,4 @@
-# Ocean Jornada Frontend - Janeiro 2024
+# Ocean Jornada Frontend
 
 Este é um projeto frontend desenvolvido utilizando React e Vite, projetado para apresentar uma lista de personagens da série de animação "Rick and Morty". O projeto é parte da Jornada Frontend do Samsung Ocean.
 
@@ -14,10 +14,3 @@ O projeto carrega dados da [API do Rick and Morty](https://rickandmortyapi.com/)
 
 
 ## React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
