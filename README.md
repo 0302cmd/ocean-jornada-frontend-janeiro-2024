@@ -13,4 +13,4 @@ Este é um projeto frontend desenvolvido utilizando React e Vite, projetado para
 O projeto carrega dados da [API do Rick and Morty](https://rickandmortyapi.com/), exibindo informações sobre personagens da série em cartões (cards) dinâmicos.
 
 
-## React + Vite
+### React + Vite
