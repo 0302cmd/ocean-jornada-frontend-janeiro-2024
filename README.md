@@ -1,6 +1,6 @@
 # Ocean Jornada Frontend - Janeiro 2024
 
-Este é um projeto frontend desenvolvido utilizando React e Vite, projetado para apresentar uma lista de personagens da popular série de animação "Rick and Morty". O projeto é parte da Jornada Frontend do Ocean Janeiro de 2024.
+Este é um projeto frontend desenvolvido utilizando React e Vite, projetado para apresentar uma lista de personagens da série de animação "Rick and Morty". O projeto é parte da Jornada Frontend do Samsung Ocean.
 
 ## Tecnologias Utilizadas:
 
